@@ -16,9 +16,9 @@
 //
 // 3. Add rows via the Supabase Table Editor (no code needed).
 // 4. Add to your .env:
-//
-//   VITE_SUPABASE_URL=https://xxxx.supabase.co
-//   VITE_SUPABASE_ANON_KEY=your-anon-key
+
+ VITE_SUPABASE_URL=https://htbatltuoshfcbizqevm.supabase.co
+ VITE_SUPABASE_ANON_KEY=sb_publishable_axwpz6fwVnHt_oINdrCg_Q_gZkMsxjl
 //
 // Until configured, the page falls back to the hardcoded FALLBACK_DONORS list below.
 // ─────────────────────────────────────────────────────────────────────────────
