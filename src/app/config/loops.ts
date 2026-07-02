@@ -6,7 +6,7 @@
 // 3. Copy the Form ID from the form's embed code (the part after /api/newsletter-form/)
 // 4. Add to your .env:
 //
-//   VITE_LOOPS_FORM_ID=your-form-id-here
+   VITE_LOOPS_FORM_ID=cmr2rs04e07id0j2sw3xuvjy9
 //
 // Until set, the newsletter form will show a "not yet configured" notice.
 // ─────────────────────────────────────────────────────────────────────────────
