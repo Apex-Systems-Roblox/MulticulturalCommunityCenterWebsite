@@ -10,6 +10,6 @@
 export const logoSrc: string | null = null; // ← replace null with apexLogo
 
 export const siteName = "APEX MCC";
-export const tagline  = "Coming 2027";
+export const tagline  = "Coming Soon";
 export const email    = "hello@apexmcc.org";
-export const location = "Eastside District (site TBD)";
+export const location = "(site TBD)";
